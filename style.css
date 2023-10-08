@@ -1,0 +1,51 @@
+h1{
+    text-align:center;
+    border-bottom:3px solid gray;
+    padding-top:10px;
+    padding-bottom:20px;
+    margin: 0;
+    font-size:40px;
+
+}
+.city{
+    border-right:3px solid gray;
+    width:200px;
+    margin:0;
+    padding:30px;
+    padding-top:10px;
+    font-size:23px;
+}
+#grid{
+    display:grid;
+    grid-template-columns: 100px 1fr;
+}
+#intro{
+    padding-left:180px;
+}
+#myself{
+    font-size: 20px;
+    padding-top:10px;
+}
+a{
+    text-decoration-line:none;
+    color:black;
+}
+h2{
+    font-size:30px;
+}
+.restaurant{
+    font-size:25px;
+    margin-bottom:5px;
+    text-align:center;
+}
+.address{
+    margin:0px; 
+    margin-bottom:15px;
+    text-align:center;
+}
+.food{
+    font-size:20px;
+    padding-bottom:20px;
+    padding-top:5px;
+}
+
